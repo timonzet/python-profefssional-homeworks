@@ -1,2 +1,2 @@
-# python-profefssional-homeworks
-Python ProfefssionalHomeworks
+# Python Profefssional Homeworks
+
